@@ -5,6 +5,7 @@ User Categories is a plugin for Cotonti that allows users to select **specializa
 
 The plugin is designed to improve user profile quality and to provide **fast and convenient searching of users by categories**.
 
+## [DEMONSTRATION](https://abuyfile.com/contractors/)
 ---
 
 ## Features
